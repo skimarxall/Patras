@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Patras</string>
+    <string name="action_reveal">Reveal</string>
+    <string name="title_activity_countdown">CountdownActivity</string>
+    <string name="title_activity_reveal">RevealActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>

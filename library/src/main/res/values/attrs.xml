@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Patras">
+        <attr name="switchInAnimation" format="reference" />
+        <attr name="switchOutAnimation" format="reference" />
+        <attr name="startCount" format="integer" />
+        <attr name="autoStart" format="boolean" />
+        <attr name="autoRemove" format="boolean" />
+    </declare-styleable>
+</resources>
